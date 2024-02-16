@@ -18,7 +18,6 @@ from autoscraper.utils import (
     unique_stack_list,
 )
 
-
 class AutoScraper(object):
     """
     AutoScraper : A Smart, Automatic, Fast and Lightweight Web Scraper for Python.
